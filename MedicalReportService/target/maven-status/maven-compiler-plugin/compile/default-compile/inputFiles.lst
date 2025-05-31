@@ -1,0 +1,8 @@
+/home/yash/SpringBoot/MedicalReportService/src/main/java/com/MedicalReportService/Controller/CustomeErrorController.java
+/home/yash/SpringBoot/MedicalReportService/src/main/java/com/MedicalReportService/Controller/ReportController.java
+/home/yash/SpringBoot/MedicalReportService/src/main/java/com/MedicalReportService/Entity/Report.java
+/home/yash/SpringBoot/MedicalReportService/src/main/java/com/MedicalReportService/GlobalConfig/WebConfig.java
+/home/yash/SpringBoot/MedicalReportService/src/main/java/com/MedicalReportService/GlobalConfig/WebServerConfig.java
+/home/yash/SpringBoot/MedicalReportService/src/main/java/com/MedicalReportService/MedicalReportServiceApplication.java
+/home/yash/SpringBoot/MedicalReportService/src/main/java/com/MedicalReportService/Repository/ReportRepository.java
+/home/yash/SpringBoot/MedicalReportService/src/main/java/com/MedicalReportService/Service/ReportService.java
